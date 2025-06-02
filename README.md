@@ -90,7 +90,7 @@ Your hand: [2♦️, 3♠️, 7♠️, 3♦️] (Value: 15), Dealer's upcard: [1
 √ Choose your action » Stand
 Your hand: [2♦️, 3♠️, 7♠️, 3♦️] (Value: 15), Dealer's cards: [10♠️, 6♠️, 9♦️] (Value: 25)
 
-You win $50!
+You win $25!
 Your balance: $125
 
 √ Do you want to keep playing? ... yes
@@ -112,7 +112,7 @@ Your hand: [4♥️, 4♣️, 2♠️, 2♠️, 3♠️, 4♣️] (Value: 19), D
 √ Choose your action » Stand
 Your hand: [4♥️, 4♣️, 2♠️, 2♠️, 3♠️, 4♣️] (Value: 19), Dealer's cards: [6♦️, 2♣️, 4♣️, Q♦️] (Value: 22)
 
-You win $50!
+You win $25!
 Your balance: $150
 
 √ Do you want to keep playing? ... yes
@@ -125,7 +125,7 @@ Your hand: [A♦️, 4♠️, 6♦️] (Value: 21), Dealer's upcard: [9♦️]
 You have 21. Automatically stand.
 Your hand: [A♦️, 4♠️, 6♦️] (Value: 21), Dealer's cards: [9♦️, K♥️] (Value: 19)
 
-You win $50!
+You win $25!
 Your balance: $175
 
 √ Do you want to keep playing? ... yes
