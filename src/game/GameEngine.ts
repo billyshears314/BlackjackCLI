@@ -338,7 +338,8 @@ export default class GameEngine {
         break;
     }
 
-    this.winnings = payout;
+    // remove original bet from payout when setting winnings
+    this.winnings = payout - bet;
     this.adjustPlayerBalance(payout);
     this.player.save();
   }
